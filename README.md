@@ -2,7 +2,7 @@
 - 🔭 Trabajando en HTML Y CSS
 - 🌱 Estudiando Javascript
 - ⚡ Hobbies: futbol  y escritura
-- <a href = mailto:samfarias287@gmail.com><p> ✉ Contactame </p></a>
+- <a href = mailto:samfarias287@gmail.com><p > <em> __✉ Contactame__</em> </p></a>
 <div align="center">
   <a href="https://github.com/samisfariasdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samisfariasdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
